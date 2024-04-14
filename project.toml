@@ -1,0 +1,6 @@
+[project]
+name = "Lang"
+version = "0.1.0"
+authors = ["Hexaredecimal"]
+edition = "2024"
+
